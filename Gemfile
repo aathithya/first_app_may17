@@ -33,6 +33,8 @@ gem 'coffee-rails', '4.0.1'
 
 group :development do
   gem 'sqlite3', '1.3.8'
+  #gem 'mysql2', '0.4.6'
+  gem 'mysql2', '0.3.21'
 end
 
 gem 'jquery-rails', '3.0.4'
